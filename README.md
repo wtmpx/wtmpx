@@ -15,10 +15,6 @@ I am a passionate technologist focused on Linux infrastructure, system diagnosti
 ### 📊 GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/wtmpx?cardType=level&theme=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=wtmpx&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtmpx&layout=compact&theme=dracula)
-
 ---
 
 ### 📫 Connect with Me
